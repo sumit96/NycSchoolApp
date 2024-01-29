@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NycSchoolApp</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
